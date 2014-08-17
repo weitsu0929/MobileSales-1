@@ -18,7 +18,7 @@ public class Recent extends Fragment{
 			@Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 		View v =inflater.inflate(R.layout.recent_layout, container, false); 
 		return v;
-		k;
+		
 	}
 
 	@Override
